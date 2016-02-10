@@ -1,0 +1,10 @@
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\bin\Debug\RegFinder.exe
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\bin\Debug\RegFinder.pdb
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\bin\Debug\System.Data.SQLite.dll
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\bin\Debug\System.Data.SQLite.xml
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.csprojResolveAssemblyReference.cache
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.Properties.Resources.resources
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.csproj.GenerateResource.Cache
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.exe
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.pdb
+C:\Users\yograj.bere\Downloads\Code samples\C#\GettingStartedWithSQLitePart1\SQLiteSamples\RegFinder\obj\x86\Debug\RegFinder.MainForm.resources
